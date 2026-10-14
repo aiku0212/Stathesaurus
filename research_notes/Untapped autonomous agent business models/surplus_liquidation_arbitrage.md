@@ -49,6 +49,19 @@ The most defensible niches for a Boston-based life-sciences person are small, pa
 
 **Human-only steps**: bidding and payment (auction terms and eBay's 2026 agent ban), in-person pickup within short removal windows, inspection and function testing, decontamination verification, packing, drop-off, buyer messages that need judgment, regulatory calls (Rx device, radioactive, export), and sales-tax registration.
 
+**Niche summary scorecard (synthesis of Q1–Q7; ratings are inference):**
+
+| # | Niche | Supply source | Resale channel | Saturation (inferred) | Capital to start | Main risks / flags | Who benefits |
+|---|---|---|---|---|---|---|---|
+| 1 | Microscope part-out (objectives, filter cubes, cameras) | Closure auctions; university/municipal surplus | eBay (parcel) | Low–medium | $300–1,500 | Fungus or damage on optics; needs inspection skill | Underfunded labs, teaching labs |
+| 2 | Unopened consumables lots | Biotech-closure auctions | eBay; direct to labs | Low–medium | $100–800 | Expiry and sterility claims; must not sell reagents or chemicals | Academic labs, community colleges |
+| 3 | Small benchtop instruments (pipettes, microcentrifuges, vortexers, heat blocks, mini-PCR, gel/power supplies) | SSLLC Genetown, EquipNet, Federal/HGP, Lab World HiBid | eBay (priced under the academic $5K and P-card limits); LabX | Medium | $500–2,000 | Testing; decon documentation; parcel-shipping fragility | Underfunded labs, schools |
+| 4 | HPLC/analytical module part-out | Closure auctions | eBay; LabX | Medium | $500–2,000 | Heavy; software and firmware compatibility; slow turnover | Labs keeping legacy systems running |
+| 5 | MA municipal and school surplus (shippable categories) | Municibid (official AI app), Public Surplus (alerts), GovDeals, MA OSD/Auctions International | eBay; local resale | Medium (generic categories increasingly contested) | $200–1,000 | Pickup logistics without a car; "as-is" condition; some districts restrict brokers | Schools and nonprofits (also a donation route) |
+| 6 | Test and measurement electronics | University/government surplus | eBay; EEVblog | High for HP/Tek; lower for other brands | $300–2,000 | Heavy; calibration papers; contested by repair-capable dealers | Hobbyists, small labs |
+| 7 | Hospital/medical surplus for clinics abroad | Hospital upgrades, West Auctions etc. | Export brokers/NGOs | Unknown | Not recommended | FDA, eBay Rx bans, import rules abroad, export controls | Clinics abroad (only via a compliant NGO channel) |
+
+
 ### Gaps
 - I couldn't retrieve full auction pages, so lot-level hammer prices for any 2024–2026 Boston biotech auction are unavailable. Price-gap evidence below is therefore indirect.
 - I found no news coverage confirming equipment auctions tied to Arena BioWorks, Adecto, Lyra or Caribou specifically.
@@ -325,17 +338,3 @@ There are real businesses running this exact model: eBay stores with thousands o
 ### Gaps
 - No verified income reports (YouTube, Reddit, blogs) with numbers for lab-equipment flipping were found in this session.
 - No Reddit r/Flipping or r/govdeals threads surfaced.
-
----
-
-## Niche summary scorecard (synthesis of the above; ratings are inference)
-
-| # | Niche | Supply source | Resale channel | Saturation (inferred) | Capital to start | Main risks / flags | Who benefits |
-|---|---|---|---|---|---|---|---|
-| 1 | Microscope part-out (objectives, filter cubes, cameras) | Closure auctions; university/municipal surplus | eBay (parcel) | Low–medium | $300–1,500 | Fungus or damage on optics; needs inspection skill | Underfunded labs, teaching labs |
-| 2 | Unopened consumables lots | Biotech-closure auctions | eBay; direct to labs | Low–medium | $100–800 | Expiry and sterility claims; must not sell reagents or chemicals | Academic labs, community colleges |
-| 3 | Small benchtop instruments (pipettes, microcentrifuges, vortexers, heat blocks, mini-PCR, gel/power supplies) | SSLLC Genetown, EquipNet, Federal/HGP, Lab World HiBid | eBay (priced under the academic $5K and P-card limits); LabX | Medium | $500–2,000 | Testing; decon documentation; parcel-shipping fragility | Underfunded labs, schools |
-| 4 | HPLC/analytical module part-out | Closure auctions | eBay; LabX | Medium | $500–2,000 | Heavy; software and firmware compatibility; slow turnover | Labs keeping legacy systems running |
-| 5 | MA municipal and school surplus (shippable categories) | Municibid (official AI app), Public Surplus (alerts), GovDeals, MA OSD/Auctions International | eBay; local resale | Medium (generic categories increasingly contested) | $200–1,000 | Pickup logistics without a car; "as-is" condition; some districts restrict brokers | Schools and nonprofits (also a donation route) |
-| 6 | Test and measurement electronics | University/government surplus | eBay; EEVblog | High for HP/Tek; lower for other brands | $300–2,000 | Heavy; calibration papers; contested by repair-capable dealers | Hobbyists, small labs |
-| 7 | Hospital/medical surplus for clinics abroad | Hospital upgrades, West Auctions etc. | Export brokers/NGOs | Unknown | Not recommended | FDA, eBay Rx bans, import rules abroad, export controls | Clinics abroad (only via a compliant NGO channel) |
